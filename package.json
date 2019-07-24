@@ -24,7 +24,7 @@
         }
     ],
     "dependencies": {
-        "mimelib": "~0.2",
+        "mimelib": "~0.3",
         "mime": "1.2.9"
     },
     "devDependencies": {
